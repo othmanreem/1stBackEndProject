@@ -1,0 +1,15 @@
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input[type="text"][placeholder="Text"] {
+   
+    margin: 10px;
+width: 400px;
+       height: 100px;
+}
+input[type="submit"] {
+    margin: 10px;
+    align-self: center; 
+}
